@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "FIORI DI ZUCCA",
+            "price": 19.9,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 2,
+            "title": "FIORI DI ZUCCA",
+            "price": 20,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 3,
+            "title": "FIORI DI ZUCCA",
+            "price": 45,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 4,
+            "title": "FIORI DI ZUCCA",
+            "price": 19.9,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 5,
+            "title": "FIORI DI ZUCCA",
+            "price": 19.9,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 6,
+            "title": "FIORI DI ZUCCA",
+            "price": 19.9,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+        {
+            "id": 7,
+            "title": "FIORI DI ZUCCA",
+            "price": 19.9,
+            "descriptions": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+    ]
+}

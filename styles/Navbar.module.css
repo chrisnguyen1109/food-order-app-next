@@ -1,0 +1,63 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--primary-color);
+    align-items: center;
+    padding: 15px 80px;
+    color: white;
+}
+
+.container__item--contact {
+    display: flex;
+    column-gap: 15px;
+    align-items: center;
+}
+.contact__logo {
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+}
+.contact__title {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.contact__tel {
+    font-weight: bold;
+}
+
+.container__item--list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    align-items: center;
+    font-weight: 500;
+    padding: 0;
+    column-gap: 50px;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.container__item--cart {
+    position: relative;
+    cursor: pointer;
+}
+
+.container__item--cart-icon {
+    content: '2';
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 1px;
+    font-weight: bold;
+    color: var(--primary-color);
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
